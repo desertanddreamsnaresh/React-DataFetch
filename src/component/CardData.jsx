@@ -28,7 +28,7 @@ class CardData extends React.Component {
     return (
       <>
         <div>
-          <h1 style={{textAlign:'center'}}>Card Data</h1>
+          <h1 style={{textAlign:'center'}}>Card Data With Class Components</h1>
           <Container>
             <Row
               className="justify-content-md-center"

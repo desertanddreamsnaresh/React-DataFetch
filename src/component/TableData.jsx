@@ -28,7 +28,7 @@ const TableData = () => {
   };
   return (
     <div>
-      <h1 style={{textAlign:'center', margin:'10px'}}>List Data</h1>
+      <h1 style={{textAlign:'center', margin:'10px'}}>List Data With Fuctional Components</h1>
 
       <Table striped bordered hover>
         <thead>
